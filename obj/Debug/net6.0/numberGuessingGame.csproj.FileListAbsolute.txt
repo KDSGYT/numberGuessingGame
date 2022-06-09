@@ -1,0 +1,15 @@
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/bin/Debug/net6.0/numberGuessingGame
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/bin/Debug/net6.0/numberGuessingGame.deps.json
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/bin/Debug/net6.0/numberGuessingGame.runtimeconfig.json
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/bin/Debug/net6.0/numberGuessingGame.dll
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/bin/Debug/net6.0/ref/numberGuessingGame.dll
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/bin/Debug/net6.0/numberGuessingGame.pdb
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/obj/Debug/net6.0/numberGuessingGame.csproj.AssemblyReference.cache
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/obj/Debug/net6.0/numberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/obj/Debug/net6.0/numberGuessingGame.AssemblyInfoInputs.cache
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/obj/Debug/net6.0/numberGuessingGame.AssemblyInfo.cs
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/obj/Debug/net6.0/numberGuessingGame.csproj.CoreCompileInputs.cache
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/obj/Debug/net6.0/numberGuessingGame.dll
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/obj/Debug/net6.0/ref/numberGuessingGame.dll
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/obj/Debug/net6.0/numberGuessingGame.pdb
+/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/obj/Debug/net6.0/numberGuessingGame.genruntimeconfig.cache

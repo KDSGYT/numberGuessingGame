@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KMmt/5CX7g1LMGK6dqZeoz0IvE2CCZVYKT3OZHgCd0fLyesLb/xDguSs2thSKU9QeYtJVrF1jM1I3D5lKkTK8A==",
+  "success": true,
+  "projectFilePath": "/home/celvin/Desktop/projects/c-sharp/numberGuessingGame/numberGuessingGame.csproj",
+  "expectedPackageFiles": [
+    "/home/celvin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
