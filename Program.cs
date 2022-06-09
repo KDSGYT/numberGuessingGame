@@ -32,17 +32,35 @@ namespace NumberGuessingGame
 
             while (guess != number)
             {
-                if (attemptNumber++ == 1) Console.WriteLine("Take a guess of the number I am thinking.");
-                else if (guess > number) Console.WriteLine("Guess a little lower. Try Again !!!");
-                else if (guess < number) Console.WriteLine("Guess a little higher. Try Again !!!");
-                else if (guess == number)
-                {
-                    break;
-                };
-                guess = Convert.ToInt32(Console.ReadLine());
 
+                if (attemptNumber == 1)
+                {
+                    Console.WriteLine("Take a guess of the number I am thinking.");
+                    attemptNumber++;
+                }
+                else if (attemptNumber == 5)
+                {
+                    Console.WriteLine("You Loose!!!!");
+                    break;
+                }
+                else if (guess > number)
+                {
+                    Console.WriteLine("Guess a little lower. Try Again !!!");
+                    attemptNumber++;
+                }
+                else if (guess < number)
+                {
+                    Console.WriteLine("Guess a little higher. Try Again !!!");
+                    attemptNumber++;
+                }
+                Console.WriteLine($"You have {5 - attemptNumber + 1} attempst(s) left");
+                guess = Convert.ToInt32(Console.ReadLine());
+                if (guess == number)
+                {
+                    Console.WriteLine("You won!!!! Congratulations.");
+                    break;
+                }
             }
-            Console.WriteLine("You won!!!! Congratulations.");
 
 
         }
